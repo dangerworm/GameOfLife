@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GameOfLife">
+</Property><Property Name="Solution File" Value="C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\GameOfLife.sln">
+</Property><Property Name="User Options File" Value="C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\GameOfLife.suo">
+</Property><Property Name="Date" Value="18 November 2011">
+</Property><Property Name="Time" Value="14:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GameOfLife.sln" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GameOfLife.suo" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife.suo">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.csproj" Description="Project file successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\GameOfLife.csproj">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.csproj.user" Description="Project user file successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\GameOfLife.csproj.user">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\GameOfLife.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\GameOfLife.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Pattern.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Pattern.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Pattern.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Pattern.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Program.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\GameOfLife_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Properties\Settings.settings" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.resx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\GameOfLife.resx">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Pattern.resx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Pattern.resx">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\Properties\Resources.resx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\GameOfLife\Backup\GameOfLife\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GameOfLife" Source="GameOfLife\GameOfLife.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GameOfLife.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GameOfLife.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GameOfLife" Source="GameOfLife\GameOfLife.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
